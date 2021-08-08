@@ -4,8 +4,6 @@ I'm Benardo, currently a 3rd year undergraduate at National University of Singap
 
 I love learning new things and solving puzzles!
 
-👯 I’m looking to collaborate on Software Development projects to apply what I have learnt.
-
 ### Past Projects
 
 - [WatchNext](https://github.com/AY2021S1-CS2113T-W12-3/tp), a show tracking app for users who watch their favourite shows on multiple free streaming platforms and other open source streaming websites, optimized for use via the Command Line Interface (CLI).
